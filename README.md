@@ -2,7 +2,6 @@
 
 [![Made by Textile](https://img.shields.io/badge/made%20by-Textile-informational.svg?style=popout-square)](https://textile.io)
 [![Chat on Slack](https://img.shields.io/badge/slack-slack.textile.io-informational.svg?style=popout-square)](https://slack.textile.io)
-[![Keywords](https://img.shields.io/github/package-json/keywords/textileio/multiclock.svg?style=popout-square)](./)
 
 > Composable and self-describing clocks
 
