@@ -5,7 +5,7 @@
 
 > Composable and self-describing clocks
 
-Multiclocks are designed to defenciating various clocks for ordering events in distributed systems. 
+Multiclocks are designed for differentiating various clocks for ordering events in distributed systems. 
 
 ### Continued reading
 
