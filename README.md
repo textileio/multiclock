@@ -9,8 +9,15 @@ Multiclocks are designed for differentiating various clocks for ordering events 
 
 ### Continued reading
 
+### Distributed
+
 * [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock) & [Lamport Clock](https://www.cs.rutgers.edu/~pxk/417/notes/clocks/index.html)
 * [Bloom Clock](https://talk.fission.codes/t/the-bloom-clock/201)
 * [Hybrid-logical Clock](http://sergeiturukin.com/2017/06/26/hybrid-logical-clocks.html)
 
-Modeled after [multihashes](https://github.com/multiformats/multihash).
+### Blockchain-based
+
+* [stampery](https://stampery.com/)
+* [opentimestamp](https://opentimestamps.org/)
+
+Modelling after [multihashes](https://github.com/multiformats/multihash).
